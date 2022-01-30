@@ -8,3 +8,9 @@ With the ever-changing world that we live in, it is important to understand the 
 ## Assignment Overview
 - Assignment 4: Loads in the data set, preform Exploratory Data Analysis (EDA), clean up the data, and build models (SVM, Logistic Regression, and Naïve Bayes) to classify and predict corporate bankruptcy.
 
+## Repository Information:
+Created by: Nicholas Drake
+
+Created Date: 01/24/2022
+
+MSDS 422: Practical Machine Learning
