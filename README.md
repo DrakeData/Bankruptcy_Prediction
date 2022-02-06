@@ -7,6 +7,7 @@ With the ever-changing world that we live in, it is important to understand the 
 
 ## Assignment Overview
 - Assignment 4: Loads in the data set, preform Exploratory Data Analysis (EDA), clean up the data, and build models (SVM, Logistic Regression, and Naïve Bayes) to classify and predict corporate bankruptcy.
+- Assignment 5: This section picks up were Assignment 4 left off and looks at using Random Forest Classifier, Gradient Boosted Trees, and Extra Trees to try and predict company bankruptcy. We compare the models by looking at their ROC AUC Score, F1-Score, and Accuracy Score.
 
 ## Repository Information:
 Created by: Nicholas Drake
